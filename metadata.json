@@ -1,0 +1,6 @@
+{
+  "name": "VulnGuard AI",
+  "description": "AI-Assisted Web Application Security Assessment Platform that automates passive and active scans, verifies domain ownership, and uses Gemini to analyze vulnerabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
